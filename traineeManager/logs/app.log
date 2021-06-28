@@ -1,0 +1,8 @@
+18:33:45.846 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+18:33:59.603 [restartedMain] INFO  c.t.TraineeManagerApplication - Started TraineeManagerApplication in 31.465 seconds (JVM running for 32.739)
+18:33:59.618 [restartedMain] INFO  c.t.TraineeManagerApplication - This is application file 
+18:34:00.429 [restartedMain] INFO  c.t.service.TraineeService - In the Trainee service class
+18:34:00.429 [restartedMain] INFO  c.t.service.TraineeService - Trainee created
+18:34:00.430 [restartedMain] INFO  c.t.service.TraineeService - List of all the trainees 
+18:34:01.645 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+18:34:01.734 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
